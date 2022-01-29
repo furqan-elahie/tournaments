@@ -4,5 +4,6 @@
 "api_url":"https://furqanelahie.000webhostapp.com/tournaments/", 
 "dialog_title":"No title", 
 "dialog_message":"No message", 
-"dialog_btn":"OK"
+"dialog_btn":"OK", 
+"messaging":"on"
 }
