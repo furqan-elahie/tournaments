@@ -2,7 +2,7 @@
 "server_status":"online", 
 "latest_version":"1.0.0", 
 "update_required":"NAN", 
-"api_url":"https://furqanelahie.000webhostapp.com/tournaments/", 
+"api_url":"https://furqanelahie.000webhostapp.com/tournament/", 
 "dialog_title":"No title", 
 "dialog_message":"No message", 
 "dialog_btn":"OK", 
