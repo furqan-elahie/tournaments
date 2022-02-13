@@ -12,6 +12,9 @@
 "report_url":"https://imaziue.codeigneous.online/api/v1/reports/send.php", 
 "news_url":"https://imaziue.codeigneous.online/api/v1/news/index.php", 
 "apk":"https://google.com/", 
-"crash_reports_url":"https://imaziue.codeigneous.online/api/v1/crash_reports/report.php"
+"crash_reports_url":"https://imaziue.codeigneous.online/api/v1/crash_reports/report.php", 
+"var1":"ENABLED", 
+"var1_video":"", 
+"var1_link":""
 }
 
